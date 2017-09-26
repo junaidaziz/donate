@@ -4,7 +4,6 @@
 .env
 .DS_Store
 bundle.js
-dump.rdb
 npm-debug.log
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
