@@ -1,0 +1,15 @@
+/node_modules
+/.idea
+/dist
+.env
+.DS_Store
+bundle.js
+dump.rdb
+npm-debug.log
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+newrelic_agent.log
+dump.rdb
+package-lock.json
